@@ -20,7 +20,7 @@ These graphs compare real vs synthetic data generated using GAN.
 ![Rainfall Graph](rainfall_professional.png)
 
 ### 🌡 Temperature
-![Temperature Graph](temperature_kde.png)
+![Temperature Graph](temperature_professional.png)
 
 ### 💧 Humidity
-![Humidity Graph](humidity_kde.png)
+![Humidity Graph](humidity_professional.png)
