@@ -4,23 +4,23 @@ These graphs compare real vs synthetic data generated using GAN.
 
 ---
 
-### 🌱 Nitrogen (N)
+###  Nitrogen (N)
 ![N Graph](N_professional.png)
 
-### 🌱 Phosphorus (P)
+###  Phosphorus (P)
 ![P Graph](P_professional.png)
 
-### 🌱 Potassium (K)
+###  Potassium (K)
 ![K Graph](K_professional.png)
 
-### 🌱 Ph 
+###  Ph 
 ![Ph Graph](ph_professional.png)
 
-### 🌡 Rainfall
+###  Rainfall
 ![Rainfall Graph](rainfall_professional.png)
 
-### 🌡 Temperature
+###  Temperature
 ![Temperature Graph](temperature_professional.png)
 
-### 💧 Humidity
+###  Humidity
 ![Humidity Graph](humidity_professional.png)
