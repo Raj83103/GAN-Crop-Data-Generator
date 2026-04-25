@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 real = pd.read_csv("dataset.csv")
 fake = pd.read_csv("synthetic_data.csv")
 
-st.title("🌱 GAN Synthetic Data Dashboard")
+st.title(" GAN Synthetic Data Dashboard")
 
 # Dropdown
 feature = st.selectbox("Select Feature", real.columns)
