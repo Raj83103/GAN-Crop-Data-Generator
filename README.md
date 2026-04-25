@@ -1,4 +1,4 @@
-## 📊 Results
+## Results
 
 These graphs compare real vs synthetic data generated using GAN.
 
